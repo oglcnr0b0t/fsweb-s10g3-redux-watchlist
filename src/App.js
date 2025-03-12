@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div className="wrapper max-w-2xl mx-auto">
+      <h1>oğulcan film arşivi</h1>
       <nav className="flex text-2xl pb-6 pt-8 gap-2 justify-center">
         <NavLink to="/" exact className="py-3 px-6 " activeClassName="bg-white shadow-sm text-blue-600">
           Filmler
